@@ -93,7 +93,7 @@ $umur = $hari_ini->diff($lahir);
         <div class="line"></div>
         <div class="kolom-kanan">
             <div class="kotak-konten">
-                <p class="sub-judul" align="right">TENTANG SAYA &nbsp;&nbsp;<i class="fa fa-person"></i></p>
+                <p class="sub-judul" align="right">TENTANG SAYA</p>
                 <P class="p3" style="line-height: 2;">Saya adalah seorang mahasiswi yang sedang menempuh jenjang pendidikan di 
                     Universitas Pembangunan Nasional "Veteran" Jawa Timur. Saya terbiasa untuk melakukan 
                     sesuatu dengan teliti dan dapat memenuhi tenggat waktu secara efektif.<br>Saya lahir pada 
