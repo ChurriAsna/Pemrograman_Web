@@ -1,2 +1,0 @@
-Ini adalah file dummy untuk pengujian pengiriman email.
-Tanggal: 2024-10-07 16:05:39
